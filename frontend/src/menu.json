@@ -1,0 +1,24 @@
+[
+    { "categoria": "Hand Roll", "nombre": "Hand Roll Pollo Katzu, Palta y Queso", "precio": 3500 },
+    { "categoria": "Hand Roll", "nombre": "Hand Roll Pollo Katzu, Cebollín y Queso", "precio": 3500 },
+    { "categoria": "Hand Roll", "nombre": "Hand Roll Salmón", "precio": 4000 },
+    { "categoria": "Hosomaki", "nombre": "Hosomaki Salmón", "precio": 4000 },
+    { "categoria": "Hosomaki", "nombre": "Hosomaki Pollo Katzu", "precio": 3800 },
+    { "categoria": "Picadillos", "nombre": "Pollo Katzu", "precio": 6000 },
+    { "categoria": "Picadillos", "nombre": "Sakanatataki", "precio": 6500 },
+    { "categoria": "Sushi Burger", "nombre": "La Fish Burger", "precio": 9500 },
+    { "categoria": "Sushi Burger", "nombre": "La Huerto Burger", "precio": 9000 },
+    { "categoria": "Gohan", "nombre": "Gohan Pollo Katzu", "precio": 7000 },
+    { "categoria": "Gohan", "nombre": "Gohan Salmón y Camarón", "precio": 8000 },
+    { "categoria": "Plato Caliente", "nombre": "Chaufa Mixto", "precio": 9000 },
+    { "categoria": "Rolls", "nombre": "KATZU ESPECIAL", "precio": 6000 },
+    { "categoria": "Rolls", "nombre": "AVOCADO CHEESE", "precio": 6000 },
+    { "categoria": "Rolls Gourmet", "nombre": "CHEESE TEM", "precio": 7000 },
+    { "categoria": "Rolls Gourmet", "nombre": "EBI FURAY", "precio": 7000 },
+    { "categoria": "Sin Arroz", "nombre": "EBI SAKE CHEESE", "precio": 8000 },
+    { "categoria": "Meats Rolls", "nombre": "AVOCADO MEATS", "precio": 7000 },
+    { "categoria": "Meats Rolls", "nombre": "MEATS PREMIUM", "precio": 7500 },
+    { "categoria": "Promoción", "nombre": "MIX 50", "precio": 20000 },
+    { "categoria": "Promoción", "nombre": "SUGERENCIA 4", "precio": 32000 }
+  ]
+  
